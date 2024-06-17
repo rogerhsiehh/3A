@@ -4,6 +4,7 @@
 
 After downloading data: 
 1. install xsv package in your local machine:
+View:https://brew.sh/
 View:https://formulae.brew.sh/formula/xsv
 
 2. run in Terminal to select the wanted columns, and name the new file as cleaned_taxi_trips.csv
