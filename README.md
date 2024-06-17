@@ -11,6 +11,6 @@ View:https://formulae.brew.sh/formula/xsv
 ```
 xsv select "Trip Start Timestamp,Trip End Timestamp,Trip Seconds,Trip Miles,Pickup Community Area,Dropoff Community Area,Fare,Tips,Tolls,Extras,Trip Total,Payment Type,Pickup Centroid Latitude,Pickup Centroid Longitude,Dropoff Centroid Latitude,Dropoff Centroid Longitude" Taxi_Trips_-_2023.csv > cleaned_taxi_trips.csv
 ```
-This makes the dataset to around 950mb, for certain analysis, you can select your target columns with the same approach.
+This makes the dataset down to around 950mb, for certain analysis, you can select your target columns with the same approach.
 
 ## Weather Data
