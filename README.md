@@ -1,6 +1,10 @@
 # 3A
 ## Taxi Data
 2023 Taxi data download from here: https://data.cityofchicago.org/Transportation/Taxi-Trips-2023/e55j-2ewb/data 
+## Columns in original dataset
+Trip ID 	Taxi ID 	Trip Start Timestamp 	Trip End Timestamp 	Trip Seconds  Trip Miles 	Pickup Census Tract 	Dropoff Census Tract 	
+Pickup Community Area 	Dropoff Community Area 	Fare  Tips 	Tolls 	Extras 	Trip Total 	Payment Type 	Company 	Pickup Centroid Latitude 	
+Pickup Centroid Longitude 	Pickup Centroid Location   Dropoff Centroid Latitude 	Dropoff Centroid Longitude 	Dropoff Centroid Location
 
 After downloading data: 
 1. install xsv package in your local machine:
