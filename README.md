@@ -17,4 +17,4 @@ xsv select "Trip Start Timestamp,Trip End Timestamp,Trip Seconds,Trip Miles,Pick
 ```
 This makes the dataset down to around 950mb, for certain analysis, you can select your target columns with the same approach.
 
-## Weather Data
+To download the cleaned_taxi_trips.csv file, check here: https://drive.google.com/drive/folders/1ftWG1p_dhvVbv6A6tXcc0b_EZV4tw-z6?usp=drive_link
