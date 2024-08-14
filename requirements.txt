@@ -1,0 +1,16 @@
+pandas
+geopandas
+meteostat
+numpy
+scipy
+geopy
+h3
+folium
+osmnx
+shapely
+matplotlib
+seaborn
+scikit-learn
+random
+gymnasium
+stable-baselines3
