@@ -11,6 +11,6 @@ shapely
 matplotlib
 seaborn
 scikit-learn
-random
+holidays
 gymnasium
 stable-baselines3
