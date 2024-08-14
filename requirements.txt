@@ -16,3 +16,4 @@ gymnasium
 stable-baselines3
 tensorflow
 keras_tuner
+sklearn
